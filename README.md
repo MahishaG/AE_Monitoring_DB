@@ -1,7 +1,7 @@
 # Adverse Event Monitoring Dashbaord
 
 ## 📌 Project Overview
-This project delivers a fully automated Power BI dashboard built to monitor adverse events (AEs) across two large-scale clinical trials. By joining and comparing query records with AE and related clinical form data, the dashboard intelligently flags whether an event is serious or not — enabling quick insights and better decision-making for trial teams.
+This project delivers a fully automated Power BI dashboard built to monitor adverse events (AEs) across two large-scale clinical trials. By joining and comparing query records with AE and related clinical form data, the dashboard intelligently flags whether an event is serious or not — enabling quick insights and better decision-making for trial teams. While scheduling the refresh, the on-premise files in the shared folder gets automatically overwritten through PowerShell scripts taken care by upstream team.
 
 ## 🔍 Key Insights
 1. 🔁 Automated Refresh: Scheduled refresh (daily) to ensure near real-time monitoring
