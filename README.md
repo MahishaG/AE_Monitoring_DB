@@ -19,4 +19,8 @@ This project delivers a fully automated Power BI dashboard built to monitor adve
 ## Dashboard
 <img width="577" alt="Zues_powerbi" src="https://github.com/user-attachments/assets/e3a77701-3e04-4a69-aa83-90e1bf7cb0f1" />
 
+## Conclusion
+Developed a real-time interactive Power BI dashboard integrating query data and adverse event records across two major clinical trials. Automated data joins to identify seriousness flags from AE reports and enabled daily data refresh. 
+Delivered intuitive visuals in the dashboard, reducing manual effort by 75%.
+
 ## Thank you!!!
