@@ -5,7 +5,7 @@ This project delivers a fully automated Power BI dashboard built to monitor adve
 
 ## 🔍 Key Insights
 1. 🔁 Automated Refresh: Scheduled refresh (daily) to ensure near real-time monitoring
-2. 🔗 Cloud-Connected: Data connected from cloud storage sources like OneDrive/SharePoint/Azure
+2. 🔗 On-preise dataset: Data connected from shared folder and connected through gateway for scheduled refresh.
 3. 🔍 Smart Join Logic: Integrated 12 Excel-based datasets (~30K+ rows) 
 4. 🛠 Power Query Transformations: Data cleaning, structuring, and transformation handled entirely in Power Query
 5. 📊 User-Focused Visuals: Dashboard includes dynamic tables and clean layouts tailored for clinical teams
